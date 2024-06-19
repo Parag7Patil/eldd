@@ -1,0 +1,1 @@
+cmd_/home/parag/Documents/eldd_practise/driverc_lass/driver_class.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/parag/Documents/eldd_practise/driverc_lass/driver_class.ko /home/parag/Documents/eldd_practise/driverc_lass/driver_class.o /home/parag/Documents/eldd_practise/driverc_lass/driver_class.mod.o;  true

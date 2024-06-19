@@ -1,0 +1,1 @@
+cmd_/home/parag/Documents/eldd_practise/driverc_lass/Module.symvers :=  sed 's/ko$$/o/'  /home/parag/Documents/eldd_practise/driverc_lass/modules.order | scripts/mod/modpost -m -a    -o /home/parag/Documents/eldd_practise/driverc_lass/Module.symvers -e -i Module.symvers -T - 
